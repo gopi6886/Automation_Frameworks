@@ -1,0 +1,39 @@
+2023-06-12 12:31:56,175 INFO  [Log] Application Opened 
+2023-06-12 12:31:59,456 INFO  [Log] Login Completed 
+2023-06-12 12:31:59,845 INFO  [Log] Logout Completed 
+2023-06-12 12:32:01,639 INFO  [Log] Application Closed 
+2023-06-12 12:33:27,575 INFO  [Log] Application Opened 
+2023-06-12 12:33:30,434 INFO  [Log] Login Completed 
+2023-06-12 12:33:30,881 INFO  [Log] Logout Completed 
+2023-06-12 12:33:32,727 INFO  [Log] Application Closed 
+2023-06-12 12:33:41,065 INFO  [Log] Application Opened 
+2023-06-12 12:33:43,846 INFO  [Log] Login Completed 
+2023-06-12 12:36:58,868 INFO  [Log] Application Opened 
+2023-06-12 12:37:01,702 INFO  [Log] Login Completed 
+2023-06-12 12:37:01,792 INFO  [Log] Enter frame 
+2023-06-12 12:37:06,359 INFO  [Log] newempadded 
+2023-06-12 12:37:06,412 INFO  [Log] Exit frame 
+2023-06-12 12:37:06,792 INFO  [Log] Logout Completed 
+2023-06-12 12:37:09,435 INFO  [Log] Application Closed 
+2023-06-12 12:37:44,350 INFO  [Log] Application Opened 
+2023-06-12 12:37:46,934 INFO  [Log] Login Completed 
+2023-06-12 12:37:47,304 INFO  [Log] Logout Completed 
+2023-06-12 12:37:49,282 INFO  [Log] Application Closed 
+2023-06-12 12:37:57,627 INFO  [Log] Application Opened 
+2023-06-12 12:38:00,478 INFO  [Log] Login Completed 
+2023-06-12 12:38:00,577 INFO  [Log] Enter frame 
+2023-06-12 12:38:04,427 INFO  [Log] newempadded 
+2023-06-12 12:38:04,449 INFO  [Log] Exit frame 
+2023-06-12 12:38:04,827 INFO  [Log] Logout Completed 
+2023-06-12 12:38:06,669 INFO  [Log] Application Closed 
+2023-06-12 12:52:11,169 INFO  [Log] Application Opened 
+2023-06-12 12:52:13,348 INFO  [Log] Login Completed 
+2023-06-12 12:52:13,615 INFO  [Log] Logout Completed 
+2023-06-12 12:52:14,964 INFO  [Log] Application Closed 
+2023-06-12 12:52:21,110 INFO  [Log] Application Opened 
+2023-06-12 12:52:23,290 INFO  [Log] Login Completed 
+2023-06-12 12:52:23,320 INFO  [Log] Enter frame 
+2023-06-12 12:52:27,048 INFO  [Log] newempadded 
+2023-06-12 12:52:27,055 INFO  [Log] Exit frame 
+2023-06-12 12:52:27,313 INFO  [Log] Logout Completed 
+2023-06-12 12:52:28,478 INFO  [Log] Application Closed 

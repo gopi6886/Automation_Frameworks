@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-12T12:52:02 IST" name="Suite1" finished-at="2023-06-12T12:52:28 IST" duration-ms="25814">
+    <groups>
+    </groups>
+    <test started-at="2023-06-12T12:52:02 IST" name="Nopackage" finished-at="2023-06-12T12:52:28 IST" duration-ms="25814">
+      <class name="Automation.com.hrms.testscripts.TC002">
+        <test-method signature="tc002()[pri:0, instance:Automation.com.hrms.testscripts.TC002@514646ef]" started-at="2023-06-12T12:52:14 IST" name="tc002" finished-at="2023-06-12T12:52:28 IST" duration-ms="13506" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- Automation.com.hrms.testscripts.TC002 -->
+      <class name="Automation.com.hrms.testscripts.TC001">
+        <test-method signature="tc001()[pri:0, instance:Automation.com.hrms.testscripts.TC001@70ed52de]" started-at="2023-06-12T12:52:02 IST" name="tc001" finished-at="2023-06-12T12:52:14 IST" duration-ms="12229" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- Automation.com.hrms.testscripts.TC001 -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>
